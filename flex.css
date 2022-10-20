@@ -1,0 +1,25 @@
+div{
+    border: 1px solid black;
+    height: 100px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    background-color: aqua;
+    justify-content: space-evenly;
+}
+.item{
+    width: 30%;
+    text-align: center;
+    line-height: 100px;
+    font-weight: bold;
+    font-size: 24pt;
+    flex-grow: 0;
+}
+
+.item2{
+    flex-grow: 1;
+    font-size: 24pt;
+    text-align: center;
+    line-height: 100px
+}

@@ -1,0 +1,18 @@
+label{
+    color: brown;
+}
+.tab1{
+border: 5px solid goldenrod;
+background-color: aqua;
+color: green;
+padding: 20 px;
+}
+
+#firstName{
+color: plum;
+}
+
+body > p{
+font-style: italic;
+color: aqua;
+}eleph
